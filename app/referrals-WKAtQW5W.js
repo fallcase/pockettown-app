@@ -1,0 +1,1 @@
+import{Ft as e}from"./ui-Dl9TEUnN.js";import{r as t}from"./query-gYk7xw4h.js";function n(){return t(`/referrals/me`)}function r(e={}){return t(`/referrals/invited`,{...e})}function i(){return e.post(`/referrals/invite-message`)}function a(e){return t(`/referrals/friends/${e}/reward`)}function o(t){return e.post(`/referrals/friends/${t}/reward`)}export{n as a,i,a as n,r,o as t};

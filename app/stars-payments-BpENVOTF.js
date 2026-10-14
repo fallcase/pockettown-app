@@ -1,0 +1,1 @@
+import{Ft as e}from"./ui-Dl9TEUnN.js";import{r as t}from"./query-gYk7xw4h.js";function n(){return t(`/stars-payments/packs`)}function r(){return e.post(`/stars-payments/plate-spin-invoices`)}function i(t){return e.post(`/stars-payments/boost-invoices`,t)}function a(t){return e.post(`/stars-payments/invoices`,t)}export{n as i,a as n,r,i as t};

@@ -1,0 +1,1 @@
+import{T as e}from"./Plate-upxeTgC2.js";function t(t){return e()===`ru`?t.nameRu:t.nameEn}export{t};

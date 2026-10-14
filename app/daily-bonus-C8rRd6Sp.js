@@ -1,0 +1,1 @@
+import{Ft as e,Yt as t}from"./ui-Dl9TEUnN.js";import{o as n,r}from"./query-gYk7xw4h.js";function i(e){return t(e.serverTime),e}function a(){return n({...r(`/daily-bonus`),queryFn:({signal:t})=>e.get(`/daily-bonus`,{signal:t}).then(i)})}function o(){return e.post(`/daily-bonus/claim`)}export{a as n,o as t};

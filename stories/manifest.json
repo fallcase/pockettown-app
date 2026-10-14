@@ -1,0 +1,712 @@
+{
+  "version": 1,
+  "width": 720,
+  "height": 1280,
+  "fps": 30,
+  "stories": [
+    {
+      "kind": "car_bought",
+      "variant": "smarty",
+      "lang": "ru",
+      "file": "car_bought.smarty.ru.mp4",
+      "poster": "car_bought.smarty.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "smarty",
+      "lang": "en",
+      "file": "car_bought.smarty.en.mp4",
+      "poster": "car_bought.smarty.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "multiplx",
+      "lang": "ru",
+      "file": "car_bought.multiplx.ru.mp4",
+      "poster": "car_bought.multiplx.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "multiplx",
+      "lang": "en",
+      "file": "car_bought.multiplx.en.mp4",
+      "poster": "car_bought.multiplx.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "beatall",
+      "lang": "ru",
+      "file": "car_bought.beatall.ru.mp4",
+      "poster": "car_bought.beatall.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "beatall",
+      "lang": "en",
+      "file": "car_bought.beatall.en.mp4",
+      "poster": "car_bought.beatall.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "tois08-gti",
+      "lang": "ru",
+      "file": "car_bought.tois08-gti.ru.mp4",
+      "poster": "car_bought.tois08-gti.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "tois08-gti",
+      "lang": "en",
+      "file": "car_bought.tois08-gti.en.mp4",
+      "poster": "car_bought.tois08-gti.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "toyoyo-highlight",
+      "lang": "ru",
+      "file": "car_bought.toyoyo-highlight.ru.mp4",
+      "poster": "car_bought.toyoyo-highlight.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "toyoyo-highlight",
+      "lang": "en",
+      "file": "car_bought.toyoyo-highlight.en.mp4",
+      "poster": "car_bought.toyoyo-highlight.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "landyroamer",
+      "lang": "ru",
+      "file": "car_bought.landyroamer.ru.mp4",
+      "poster": "car_bought.landyroamer.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "landyroamer",
+      "lang": "en",
+      "file": "car_bought.landyroamer.en.mp4",
+      "poster": "car_bought.landyroamer.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "toro86",
+      "lang": "ru",
+      "file": "car_bought.toro86.ru.mp4",
+      "poster": "car_bought.toro86.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "toro86",
+      "lang": "en",
+      "file": "car_bought.toro86.en.mp4",
+      "poster": "car_bought.toro86.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "stutgartt996",
+      "lang": "ru",
+      "file": "car_bought.stutgartt996.ru.mp4",
+      "poster": "car_bought.stutgartt996.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "stutgartt996",
+      "lang": "en",
+      "file": "car_bought.stutgartt996.en.mp4",
+      "poster": "car_bought.stutgartt996.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "tristar-racer",
+      "lang": "ru",
+      "file": "car_bought.tristar-racer.ru.mp4",
+      "poster": "car_bought.tristar-racer.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "tristar-racer",
+      "lang": "en",
+      "file": "car_bought.tristar-racer.en.mp4",
+      "poster": "car_bought.tristar-racer.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "delorean-style-car",
+      "lang": "ru",
+      "file": "car_bought.delorean-style-car.ru.mp4",
+      "poster": "car_bought.delorean-style-car.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_bought",
+      "variant": "delorean-style-car",
+      "lang": "en",
+      "file": "car_bought.delorean-style-car.en.mp4",
+      "poster": "car_bought.delorean-style-car.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "smarty",
+      "lang": "ru",
+      "file": "junkyard_won.smarty.ru.mp4",
+      "poster": "junkyard_won.smarty.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "smarty",
+      "lang": "en",
+      "file": "junkyard_won.smarty.en.mp4",
+      "poster": "junkyard_won.smarty.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "multiplx",
+      "lang": "ru",
+      "file": "junkyard_won.multiplx.ru.mp4",
+      "poster": "junkyard_won.multiplx.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "multiplx",
+      "lang": "en",
+      "file": "junkyard_won.multiplx.en.mp4",
+      "poster": "junkyard_won.multiplx.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "beatall",
+      "lang": "ru",
+      "file": "junkyard_won.beatall.ru.mp4",
+      "poster": "junkyard_won.beatall.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "beatall",
+      "lang": "en",
+      "file": "junkyard_won.beatall.en.mp4",
+      "poster": "junkyard_won.beatall.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "tois08-gti",
+      "lang": "ru",
+      "file": "junkyard_won.tois08-gti.ru.mp4",
+      "poster": "junkyard_won.tois08-gti.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "tois08-gti",
+      "lang": "en",
+      "file": "junkyard_won.tois08-gti.en.mp4",
+      "poster": "junkyard_won.tois08-gti.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "toyoyo-highlight",
+      "lang": "ru",
+      "file": "junkyard_won.toyoyo-highlight.ru.mp4",
+      "poster": "junkyard_won.toyoyo-highlight.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "toyoyo-highlight",
+      "lang": "en",
+      "file": "junkyard_won.toyoyo-highlight.en.mp4",
+      "poster": "junkyard_won.toyoyo-highlight.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "landyroamer",
+      "lang": "ru",
+      "file": "junkyard_won.landyroamer.ru.mp4",
+      "poster": "junkyard_won.landyroamer.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "landyroamer",
+      "lang": "en",
+      "file": "junkyard_won.landyroamer.en.mp4",
+      "poster": "junkyard_won.landyroamer.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "toro86",
+      "lang": "ru",
+      "file": "junkyard_won.toro86.ru.mp4",
+      "poster": "junkyard_won.toro86.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "toro86",
+      "lang": "en",
+      "file": "junkyard_won.toro86.en.mp4",
+      "poster": "junkyard_won.toro86.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "stutgartt996",
+      "lang": "ru",
+      "file": "junkyard_won.stutgartt996.ru.mp4",
+      "poster": "junkyard_won.stutgartt996.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "stutgartt996",
+      "lang": "en",
+      "file": "junkyard_won.stutgartt996.en.mp4",
+      "poster": "junkyard_won.stutgartt996.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "tristar-racer",
+      "lang": "ru",
+      "file": "junkyard_won.tristar-racer.ru.mp4",
+      "poster": "junkyard_won.tristar-racer.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "tristar-racer",
+      "lang": "en",
+      "file": "junkyard_won.tristar-racer.en.mp4",
+      "poster": "junkyard_won.tristar-racer.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "delorean-style-car",
+      "lang": "ru",
+      "file": "junkyard_won.delorean-style-car.ru.mp4",
+      "poster": "junkyard_won.delorean-style-car.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "junkyard_won",
+      "variant": "delorean-style-car",
+      "lang": "en",
+      "file": "junkyard_won.delorean-style-car.en.mp4",
+      "poster": "junkyard_won.delorean-style-car.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "car_tuned",
+      "variant": "default",
+      "lang": "ru",
+      "file": "car_tuned.default.ru.mp4",
+      "poster": "car_tuned.default.ru.jpg",
+      "seconds": 6
+    },
+    {
+      "kind": "car_tuned",
+      "variant": "default",
+      "lang": "en",
+      "file": "car_tuned.default.en.mp4",
+      "poster": "car_tuned.default.en.jpg",
+      "seconds": 6
+    },
+    {
+      "kind": "plate_claimed",
+      "variant": "default",
+      "lang": "ru",
+      "file": "plate_claimed.default.ru.mp4",
+      "poster": "plate_claimed.default.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "plate_claimed",
+      "variant": "default",
+      "lang": "en",
+      "file": "plate_claimed.default.en.mp4",
+      "poster": "plate_claimed.default.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "outfit",
+      "variant": "male",
+      "lang": "ru",
+      "file": "outfit.male.ru.mp4",
+      "poster": "outfit.male.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "outfit",
+      "variant": "male",
+      "lang": "en",
+      "file": "outfit.male.en.mp4",
+      "poster": "outfit.male.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "outfit",
+      "variant": "female",
+      "lang": "ru",
+      "file": "outfit.female.ru.mp4",
+      "poster": "outfit.female.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "outfit",
+      "variant": "female",
+      "lang": "en",
+      "file": "outfit.female.en.mp4",
+      "poster": "outfit.female.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "promoter",
+      "lang": "ru",
+      "file": "job_promoted.promoter.ru.mp4",
+      "poster": "job_promoted.promoter.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "promoter",
+      "lang": "en",
+      "file": "job_promoted.promoter.en.mp4",
+      "poster": "job_promoted.promoter.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "foot_courier",
+      "lang": "ru",
+      "file": "job_promoted.foot_courier.ru.mp4",
+      "poster": "job_promoted.foot_courier.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "foot_courier",
+      "lang": "en",
+      "file": "job_promoted.foot_courier.en.mp4",
+      "poster": "job_promoted.foot_courier.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "barista",
+      "lang": "ru",
+      "file": "job_promoted.barista.ru.mp4",
+      "poster": "job_promoted.barista.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "barista",
+      "lang": "en",
+      "file": "job_promoted.barista.en.mp4",
+      "poster": "job_promoted.barista.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "warehouse_worker",
+      "lang": "ru",
+      "file": "job_promoted.warehouse_worker.ru.mp4",
+      "poster": "job_promoted.warehouse_worker.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "warehouse_worker",
+      "lang": "en",
+      "file": "job_promoted.warehouse_worker.en.mp4",
+      "poster": "job_promoted.warehouse_worker.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "car_courier",
+      "lang": "ru",
+      "file": "job_promoted.car_courier.ru.mp4",
+      "poster": "job_promoted.car_courier.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "car_courier",
+      "lang": "en",
+      "file": "job_promoted.car_courier.en.mp4",
+      "poster": "job_promoted.car_courier.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "taxi_driver",
+      "lang": "ru",
+      "file": "job_promoted.taxi_driver.ru.mp4",
+      "poster": "job_promoted.taxi_driver.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "taxi_driver",
+      "lang": "en",
+      "file": "job_promoted.taxi_driver.en.mp4",
+      "poster": "job_promoted.taxi_driver.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "office_manager",
+      "lang": "ru",
+      "file": "job_promoted.office_manager.ru.mp4",
+      "poster": "job_promoted.office_manager.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "office_manager",
+      "lang": "en",
+      "file": "job_promoted.office_manager.en.mp4",
+      "poster": "job_promoted.office_manager.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "car_mechanic",
+      "lang": "ru",
+      "file": "job_promoted.car_mechanic.ru.mp4",
+      "poster": "job_promoted.car_mechanic.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "car_mechanic",
+      "lang": "en",
+      "file": "job_promoted.car_mechanic.en.mp4",
+      "poster": "job_promoted.car_mechanic.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "realtor",
+      "lang": "ru",
+      "file": "job_promoted.realtor.ru.mp4",
+      "poster": "job_promoted.realtor.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "realtor",
+      "lang": "en",
+      "file": "job_promoted.realtor.en.mp4",
+      "poster": "job_promoted.realtor.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "test_driver",
+      "lang": "ru",
+      "file": "job_promoted.test_driver.ru.mp4",
+      "poster": "job_promoted.test_driver.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "test_driver",
+      "lang": "en",
+      "file": "job_promoted.test_driver.en.mp4",
+      "poster": "job_promoted.test_driver.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "ceo",
+      "lang": "ru",
+      "file": "job_promoted.ceo.ru.mp4",
+      "poster": "job_promoted.ceo.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "job_promoted",
+      "variant": "ceo",
+      "lang": "en",
+      "file": "job_promoted.ceo.en.mp4",
+      "poster": "job_promoted.ceo.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "business_opened",
+      "variant": "kiosk",
+      "lang": "ru",
+      "file": "business_opened.kiosk.ru.mp4",
+      "poster": "business_opened.kiosk.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "business_opened",
+      "variant": "kiosk",
+      "lang": "en",
+      "file": "business_opened.kiosk.en.mp4",
+      "poster": "business_opened.kiosk.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "business_opened",
+      "variant": "cafe",
+      "lang": "ru",
+      "file": "business_opened.cafe.ru.mp4",
+      "poster": "business_opened.cafe.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "business_opened",
+      "variant": "cafe",
+      "lang": "en",
+      "file": "business_opened.cafe.en.mp4",
+      "poster": "business_opened.cafe.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "business_opened",
+      "variant": "car_service",
+      "lang": "ru",
+      "file": "business_opened.car_service.ru.mp4",
+      "poster": "business_opened.car_service.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "business_opened",
+      "variant": "car_service",
+      "lang": "en",
+      "file": "business_opened.car_service.en.mp4",
+      "poster": "business_opened.car_service.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "business_opened",
+      "variant": "shop",
+      "lang": "ru",
+      "file": "business_opened.shop.ru.mp4",
+      "poster": "business_opened.shop.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "business_opened",
+      "variant": "shop",
+      "lang": "en",
+      "file": "business_opened.shop.en.mp4",
+      "poster": "business_opened.shop.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "business_opened",
+      "variant": "arcade",
+      "lang": "ru",
+      "file": "business_opened.arcade.ru.mp4",
+      "poster": "business_opened.arcade.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "business_opened",
+      "variant": "arcade",
+      "lang": "en",
+      "file": "business_opened.arcade.en.mp4",
+      "poster": "business_opened.arcade.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "business_opened",
+      "variant": "casino",
+      "lang": "ru",
+      "file": "business_opened.casino.ru.mp4",
+      "poster": "business_opened.casino.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "business_opened",
+      "variant": "casino",
+      "lang": "en",
+      "file": "business_opened.casino.en.mp4",
+      "poster": "business_opened.casino.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "leaderboard_rank",
+      "variant": "default",
+      "lang": "ru",
+      "file": "leaderboard_rank.default.ru.mp4",
+      "poster": "leaderboard_rank.default.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "leaderboard_rank",
+      "variant": "default",
+      "lang": "en",
+      "file": "leaderboard_rank.default.en.mp4",
+      "poster": "leaderboard_rank.default.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "streak",
+      "variant": "default",
+      "lang": "ru",
+      "file": "streak.default.ru.mp4",
+      "poster": "streak.default.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "streak",
+      "variant": "default",
+      "lang": "en",
+      "file": "streak.default.en.mp4",
+      "poster": "streak.default.en.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "invite",
+      "variant": "default",
+      "lang": "ru",
+      "file": "invite.default.ru.mp4",
+      "poster": "invite.default.ru.jpg",
+      "seconds": 5.5
+    },
+    {
+      "kind": "invite",
+      "variant": "default",
+      "lang": "en",
+      "file": "invite.default.en.mp4",
+      "poster": "invite.default.en.jpg",
+      "seconds": 5.5
+    }
+  ]
+}

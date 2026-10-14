@@ -1,0 +1,1 @@
+import{r as e}from"./query-gYk7xw4h.js";function t(t){return e(`/profile/${encodeURIComponent(t)}`)}export{t};

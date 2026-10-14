@@ -1,0 +1,1 @@
+import{u as e}from"./index-D7EZsXIa.js";import{i as t,t as n}from"./money-C1ouuKir.js";function r(){let r=e(n()),i=e(t());return{money:r.data?.balance??null,gold:i.data?.total??null}}export{r as t};

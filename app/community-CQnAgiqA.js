@@ -1,0 +1,1 @@
+var e=`PocketTownNews`,t=`PocketTownGroup`,n=e=>`https://t.me/${e}`,r=/^[A-Za-z0-9_]{4,32}$/,i=e=>r.test(e);export{n as i,t as n,i as r,e as t};

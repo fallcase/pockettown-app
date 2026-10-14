@@ -1,0 +1,1 @@
+import{Ft as e}from"./ui-Dl9TEUnN.js";import{r as t}from"./query-gYk7xw4h.js";function n(){return t(`/transfers/limits`)}function r(e={}){return t(`/transfers/history`,{...e})}function i(t){return e.post(`/transfers`,t)}export{r as n,n as r,i as t};

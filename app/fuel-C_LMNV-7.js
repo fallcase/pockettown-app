@@ -1,0 +1,1 @@
+import{v as e}from"./Plate-upxeTgC2.js";var t=100,n=2;function r(r){return e(r/t,n)}export{r as t};

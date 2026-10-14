@@ -1,0 +1,1 @@
+import{r as e}from"./query-gYk7xw4h.js";var t=6e4;function n(){return{...e(`/leaderboard`,{limit:100}),staleTime:t}}export{n as t};

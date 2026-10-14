@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta http-equiv="Content-Security-Policy" content="default-src &#39;self&#39;; script-src &#39;self&#39; &#39;wasm-unsafe-eval&#39; https://telegram.org https://sad.adsgram.ai; style-src &#39;self&#39; &#39;unsafe-inline&#39;; img-src &#39;self&#39; data: blob: https:; font-src &#39;self&#39;; connect-src &#39;self&#39; blob: data: https://api.ptown-content.com wss://api.ptown-content.com https://*.adsgram.ai https://*.adsgram.me; frame-src https://*.adsgram.ai https://*.adsgram.me; media-src &#39;self&#39; blob: https://*.adsgram.ai https://*.adsgram.me; object-src &#39;none&#39;; base-uri &#39;none&#39;; form-action &#39;none&#39;">
+
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="color-scheme" content="light" />
+    <meta name="theme-color" content="#2346d3" />
+    <meta name="format-detection" content="telephone=no" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <title>Pocket Town</title>
+    <!--
+      The loading screen (src/session/GateScreen.tsx) is asked for before any script has run, so that it
+      comes up whole: its picture (public/splash, rendered by branding/splash), the small copy of it that is
+      out of focus on purpose and stands in until the picture is decoded, and the text face of its two lines
+      in both alphabets (a file holds every weight; the build gives these two the names the stylesheet asks
+      for). The name of the game is a drawing and needs no font. The picture is asked for at once but not
+      ahead of the scripts: on a slow network the game comes first, and the picture arrives no later for it.
+    -->
+    <link rel="preload" as="image" type="image/webp" href="./splash/key-art-360.webp" fetchpriority="high" />
+    <link rel="preload" as="image" type="image/webp" href="./splash/key-art-1440.webp" />
+    <link
+      rel="preload"
+      as="font"
+      type="font/woff2"
+      href="./app/onest-cyrillic-wght-normal-DayYxulF.woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      as="font"
+      type="font/woff2"
+      href="./app/onest-latin-wght-normal-Dun_Rd-l.woff2"
+      crossorigin
+    />
+    <!--
+      The first paint, before any script has run: the colour of the key art, the art itself at 18 by 32
+      pixels (the browser blurs it as it stretches it), and over them the stand-in as soon as it has come.
+      React replaces what is in #root with the loading screen, which stands on the same picture at the same
+      place (`.gate__art` in src/session/gate.css reads the two properties below).
+      `--splash-ink` and `--splash-blur` are written by branding/splash (scene.py) whenever the picture is
+      rendered again: do not edit them by hand.
+    -->
+    <style>:root{--splash-ink:#6a94a6;--splash-blur:url(data:image/webp;base64,UklGRhgBAABXRUJQVlA4IAwBAABQBgCdASoSACAAPt1gq08opSQiKAqpEBuJbACdMoPKpbHS4F3YeyqB8qBNnbXtPE+BLd+sUafuptmZQADzM1O7wjmDDP9wiMXl+kJjnVFlJhqZ7slm48wSECQu/D6hnF87y1zpIFDz/zFXflDd92yXyExfZqYp0uO1aJJKZalGa4iJy/WEtlYeDUqZXuOohgCa1khOL8vNtXneEE94Ief2wfgS3cNNGUO5yLbZfLbohDgrAWnYPNPJW+TFXcISzFNcmdaqNcMz/MSjsfCt8Ntx+c/EyVaqohmMqLZ9wkob1SDHrPX/T8EkP5+eh/J1+Wsz/YQuFgxGnGPMVE/RBk7+ggP9ZBBY1WS5wAAA)}html{background:#0a0f30}.boot{background:var(--splash-ink) var(--splash-blur) 50% 42% / cover no-repeat;max-width:480px;margin:0 auto;position:fixed;inset:0;overflow:hidden}.boot img{object-fit:cover;object-position:50% 42%;filter:blur(10px);width:100%;height:100%;position:absolute;inset:0;transform:scale(1.1)}</style>
+    <script type="module" crossorigin src="./app/index-D7EZsXIa.js"></script>
+    <link rel="modulepreload" crossorigin href="./app/Plate-upxeTgC2.js">
+    <link rel="modulepreload" crossorigin href="./app/types-CO8e2NyB.js">
+    <link rel="modulepreload" crossorigin href="./app/ui-Dl9TEUnN.js">
+    <link rel="modulepreload" crossorigin href="./app/query-gYk7xw4h.js">
+    <link rel="modulepreload" crossorigin href="./app/players-DLOpuzQS.js">
+    <link rel="modulepreload" crossorigin href="./app/deep-link-mtSV41Jk.js">
+    <link rel="stylesheet" crossorigin href="./app/index-Bnv2N3Ys.css">
+  </head>
+  <body>
+    <div id="root">
+      <div class="boot"><img src="./splash/key-art-360.webp" alt="" /></div>
+    </div>
+    <!--
+      Telegram's own bridge. It must run before the app: it reads the launch data from the URL. The app is
+      a module and runs when the page has been read, so this place is before it. It stands here and not in
+      the head so that it holds nothing back while it comes from Telegram's host: the stylesheet and the
+      scripts of the game (the build writes them at the end of the head) are asked for at once, and the
+      first paint above does not wait for it.
+    -->
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  </body>
+</html>

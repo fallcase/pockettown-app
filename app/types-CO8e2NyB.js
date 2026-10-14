@@ -1,0 +1,1 @@
+var e=`1.8.1`;function t(t){return`${t}?v=${e}`}var n=[`ru`,`en`],r=[`male`,`female`],i=[`common`,`rare`,`epic`,`legendary`],a=[`hat`,`glasses`,`accessory`,`tshirt`,`outerwear`,`gloves`,`bottom`,`shoes`,`fullBody`,`background`],o=[`D`,`C`,`B`,`A`,`S`],s=[`RU`,`BY`,`KZ`,`AE`,`US`,`AT`,`GE`];export{i as a,t as c,s as i,r as n,a as o,n as r,e as s,o as t};

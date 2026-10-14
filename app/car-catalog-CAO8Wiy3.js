@@ -1,0 +1,1 @@
+import{r as e}from"./query-gYk7xw4h.js";function t(){return e(`/car-catalog/models`)}function n(){return e(`/car-catalog/wheels`)}export{n,t};

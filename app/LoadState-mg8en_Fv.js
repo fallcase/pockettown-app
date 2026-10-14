@@ -1,0 +1,1 @@
+import{O as e}from"./Plate-upxeTgC2.js";import{m as t}from"./ui-Dl9TEUnN.js";var n=e();function r({queries:e,skeleton:r}){let i=e.find(e=>e.data===void 0&&e.isError);return i?(0,n.jsx)(t,{error:i.error,retrying:e.some(e=>e.isFetching),onRetry:()=>{e.forEach(e=>{e.data===void 0&&e.refetch()})}}):(0,n.jsx)(n.Fragment,{children:r})}export{r as t};

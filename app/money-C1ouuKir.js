@@ -1,0 +1,1 @@
+import{Ft as e}from"./ui-Dl9TEUnN.js";import{r as t}from"./query-gYk7xw4h.js";function n(){return t(`/gold/balance`)}function r(t){return e.post(`/gold/exchange`,t)}function i(){return t(`/money/balance`)}function a(e={}){return t(`/money/ledger`,{...e})}export{n as i,a as n,r,i as t};

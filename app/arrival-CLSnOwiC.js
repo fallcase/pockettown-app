@@ -1,0 +1,1 @@
+import{ln as e}from"./ui-Dl9TEUnN.js";var t=`story`;function n(e,n){return`${e}${e.includes(`?`)?`&`:`?`}${t}=${n}`}function r(n){let[r]=e();return r.get(t)===n}export{n,r as t};

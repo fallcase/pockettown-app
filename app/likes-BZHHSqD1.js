@@ -1,0 +1,1 @@
+import{Ft as e}from"./ui-Dl9TEUnN.js";function t(t){return e.post(`/likes`,t)}function n(t){return e.post(`/likes/remove`,t)}export{n,t};

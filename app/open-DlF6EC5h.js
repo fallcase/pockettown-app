@@ -1,0 +1,1 @@
+import{u as e}from"./index-D7EZsXIa.js";import{n as t}from"./casino-DvqK4IH9.js";function n(){let n=e(t());return{open:n.data?.enabled===!0,known:!n.isPending,rules:n.data}}export{n as t};

@@ -1,0 +1,1 @@
+import{r as e}from"./query-gYk7xw4h.js";function t(t={}){return e(`/catalog/wardrobe`,{...t})}function n(t={}){return e(`/catalog/appearance`,{...t})}function r(){return e(`/catalog/appearance/basic`)}function i(){return e(`/catalog/drops`)}export{t as i,r as n,i as r,n as t};
